@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    /* centers horizontally */
+    align-items: center;
+    /* centers vertically */
+    background-color: #081d3e;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+    color: aliceblue
+}
